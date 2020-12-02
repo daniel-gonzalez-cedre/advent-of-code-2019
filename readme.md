@@ -1,4 +1,7 @@
 # :christmas_tree: Advent of Code 2019 :christmas_tree:
+
+:star: :star: :star:
+
 :warning: This repo is under construction :warning:
 
 My attempt at Advent of Code 2019.
