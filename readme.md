@@ -2,7 +2,7 @@
 
 :star: :star: :star:
 
-:warning: This repo is under construction :warning:
+:coffin: This repo is dead until further notice :coffin:
 
 My attempt at Advent of Code 2019.
 This is primarily for fun and to procrastinate my actual research and coursework.
